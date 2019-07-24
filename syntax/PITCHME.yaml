@@ -2,4 +2,4 @@ logo : assets/img/zocom-logo-white.png
 logo-postion : top-left
 highlight : monokai
 transition : slide
-theme-override : ../../assets/themes/zocom/zocom-1.0.css
+theme-override : ../assets/themes/zocom/zocom-1.0.css
