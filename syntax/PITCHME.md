@@ -11,7 +11,7 @@ Detta är speaker notes.
 
 ```js
 function greeting(name) {
-  return `Hello $name!`
+  return `Hello ${name}!`
 }
 ```
 
