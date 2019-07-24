@@ -1,5 +1,5 @@
-@snap[north span-100]
-@size[1rem](HTML / syntax)
+@snap[north span-100 top-info]
+HTML / syntax
 @snapend
 ## HTML Syntax
 #### Hur hänger allt ihop egentligen?
