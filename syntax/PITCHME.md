@@ -9,20 +9,11 @@ Detta är speaker notes.
 ---
 ## slide 2
 
-```html
-<html>
-   <head>
-   </head>
-   <body>
-     <h1>Hello World</h1>
-   </body>
-</html>
-
+```js
+function greeting(name) {
+  return `Hello $name!`
+}
 ```
-@[1,7](HTML omsluter hela sidan)
-@[2-3](Head)
-@[4,6](Body)
-@[5](Innehållet i body)
 
 Note: 
 
