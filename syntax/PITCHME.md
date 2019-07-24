@@ -8,7 +8,7 @@ Note:
 Detta är speaker notes.
 ---
 ## slide 2
-
+@snap[midpoint]
 ```html
 <html>
    <head>
@@ -17,4 +17,9 @@ Detta är speaker notes.
      <h1>Hello World</h1>
    </body>
 </html>
+@[1,7](HTML omsluter hela sidan)
+@[2-3](Head)
+@[4,6](Body)
+@[5](Innehållet i body)
 ```
+@snapend
