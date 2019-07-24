@@ -1,5 +1,5 @@
 /*********************************************
- * VARIBLES
+ * VARIABLES
  *********************************************/
 /*********************************************
  * GLOBAL STYLES
@@ -10,7 +10,7 @@ body {
 
 .reveal {
   font-family: "Work Sans", sans-serif;
-  font-size: 1.4rem;
+  font-size: 3rem;
   font-weight: normal;
   color: #eee;
 }
