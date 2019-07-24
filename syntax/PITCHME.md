@@ -2,6 +2,9 @@
 @size[1rem](HTML / syntax)
 @snapend
 ## HTML Syntax
-notes: Detta är speaker notes.
+#### Hur hänger allt ihop egentligen?
+Note: 
+
+Detta är speaker notes.
 ---
 ## slide 2
