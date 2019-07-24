@@ -1,4 +1,4 @@
-@snap[north span-100 top-info]
+@snap[north span-100 topinfo]
 HTML / syntax
 @snapend
 ## HTML Syntax

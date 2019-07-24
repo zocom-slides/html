@@ -87,6 +87,11 @@ body {
   opacity: .6;
 }
 
+.topinfo {
+  font-size: 1rem;
+  opacity: .6;
+}
+
 .reveal p {
   margin: 2.4rem 0;
   line-height: 1.3;
