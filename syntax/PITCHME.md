@@ -9,7 +9,7 @@ Detta är speaker notes.
 ---
 ## slide 2
 
-```
+```html
 <html>
    <head>
    </head>
