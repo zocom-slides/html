@@ -1,5 +1,5 @@
 @snap[north span-100]
-HTML / syntax
+@size[1rem](HTML / syntax)
 @snapend
 ## HTML Syntax
 ---
