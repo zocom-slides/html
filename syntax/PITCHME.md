@@ -8,7 +8,7 @@ Note:
 Detta är speaker notes.
 ---
 ## slide 2
-@snap[midpoint span-100]
+@snap[west span-100]
 ```html
 <html>
    <head>
