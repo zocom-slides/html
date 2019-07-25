@@ -9,11 +9,7 @@ Detta är speaker notes.
 ---
 ## slide 2
 
-```js
-function greeting(name) {
-  return `Hello ${name}!`
-}
-```
+---?code=src=/code/function.js&lang=js
 
 Note: 
 
