@@ -9,7 +9,7 @@ Detta är speaker notes.
 ---
 ## slide 2
 
----?code=src=https://gist.github.com/johankivi/5c13041bd1c463833bf39a17954705cf&lang=js
+---?code=code/function.js&lang=js
 
 Note: 
 
