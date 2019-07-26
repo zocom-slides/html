@@ -3,9 +3,8 @@ HTML / syntax
 @snapend
 ## HTML Syntax
 #### Hur hänger allt ihop egentligen?
-@snap[south span-100]
+
 ---?include=https://github.com/zocom-slides/assets/blob/master/staff/johankivi.md
-@snapend
 
 Note: 
 
