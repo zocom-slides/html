@@ -11,6 +11,9 @@ Detta är speaker notes.
 
 ---?code=syntax/src/function.js&lang=js
 
+@[1,3](funktionen skapas)
+@[2](Vad som ska hända i funktionen)
+
 Note: 
 
 * Detta är speaker notes för kodsidan.
