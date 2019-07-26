@@ -1,19 +1,11 @@
-@snap[north span-100 topinfo]
-HTML / syntax
-@snapend
-@snap[midpoint span-100 ]
 # HTML Syntax
 ### Hur hänger allt ihop egentligen?
-@snapend
 
 Note: 
 
 Detta är speaker notes.
 ---
-## slide 3
-@snap[north span-100 topinfo]
-HTML / syntax
-@snapend
+# function
 
 ---?code=syntax/src/function.js&lang=js
 
