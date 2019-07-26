@@ -1,8 +1,8 @@
 @snap[north span-100 topinfo]
 HTML / syntax
 @snapend
-## HTML Syntax
-#### Hur hänger allt ihop egentligen?
+# HTML Syntax
+### Hur hänger allt ihop egentligen?
 
 Note: 
 
