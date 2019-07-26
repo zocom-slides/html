@@ -4,8 +4,6 @@ HTML / syntax
 ## HTML Syntax
 #### Hur hänger allt ihop egentligen?
 
----?include=https://github.com/zocom-slides/assets/blob/master/staff/johankivi.md
-
 Note: 
 
 Detta är speaker notes.
