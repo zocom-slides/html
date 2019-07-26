@@ -5,10 +5,7 @@ Note:
 
 Detta är speaker notes.
 
----
-# function
-
----?code=syntax/src/function.js&lang=js
+---?code=syntax/src/function.js&lang=js&title=function
 
 @[1,3](funktionen skapas)
 @[2](Vad som ska hända i funktionen)
