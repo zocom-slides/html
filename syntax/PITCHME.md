@@ -16,10 +16,6 @@ Note:
 * De går att ha i lista
 
 ---
-@snap[north span-100 topinfo]
-HTML / syntax
-@snapend
-
 ## slide 4
 
 @ul
