@@ -1,5 +1,5 @@
 logo : assets/img/zocom-logo-white.png
 logo-postion : top-left
-highlight : Atom One Dark Reasonable
+highlight : monokai
 transition : slide
-theme-override : https://raw.githubusercontent.com/zocom-slides/html/master/assets/themes/zocom/zocom-1.0.css
+theme-override : https://raw.githubusercontent.com/zocom-slides/assets/master/themes/zocom-1.0.css
