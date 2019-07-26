@@ -3,11 +3,17 @@ HTML / syntax
 @snapend
 ## HTML Syntax
 #### Hur hänger allt ihop egentligen?
+@snap[south span-100]
+---?include=https://github.com/zocom-slides/assets/blob/master/staff/johankivi.md
+@snapend
 Note: 
 
 Detta är speaker notes.
 ---
-## slide 2
+## slide 3
+@snap[north span-100 topinfo]
+HTML / syntax
+@snapend
 
 ---?code=syntax/src/function.js&lang=js
 
@@ -20,8 +26,11 @@ Note:
 * De går att ha i lista
 
 ---
+@snap[north span-100 topinfo]
+HTML / syntax
+@snapend
 
-## slide 3
+## slide 4
 
 @ul
 * grej 1
