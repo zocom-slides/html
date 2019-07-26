@@ -178,10 +178,10 @@ body {
 .reveal pre {
   display: block;
   position: relative;
-  max-width: 60vw;
+  max-width: 40vw;
   margin: 2.4rem auto;
   text-align: left;
-  font-size: 1.25em;
+  font-size: 2.5em;
   font-family: monospace;
   line-height: 1.4em;
   word-wrap: break-word;
