@@ -9,7 +9,7 @@ Detta är speaker notes.
 ---
 ## slide 2
 
----?code=./code/function.js&lang=js
+---?code=/code/function.js&lang=js
 
 Note: 
 
