@@ -1,4 +1,4 @@
-logo : assets/img/zocom-logo-white.png
+logo : https://github.com/zocom-slides/assets/blob/master/img/logos/zocom-logo-white.png?raw=true
 logo-postion : top-left
 highlight : monokai
 transition : slide
