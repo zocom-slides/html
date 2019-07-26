@@ -1,8 +1,10 @@
 @snap[north span-100 topinfo]
 HTML / syntax
 @snapend
+@snap[midpoint span-100 ]
 # HTML Syntax
 ### Hur hänger allt ihop egentligen?
+@snapend
 
 Note: 
 
