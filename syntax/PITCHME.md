@@ -6,7 +6,7 @@ Note:
 Detta är speaker notes.
 
 ---
-##grundtaggarna
+## Grundtaggarna
 
 ```html
 <!DOCTYPE html>
