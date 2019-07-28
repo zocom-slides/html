@@ -5,10 +5,21 @@ Note:
 
 Detta är speaker notes.
 
----?code=syntax/src/function.js&lang=js&title=function
+---
+##grundtaggarna
 
-@[1,3](funktionen skapas)
-@[2](Vad som ska hända i funktionen)
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
+</html>
+```
+
+
 
 Note: 
 
