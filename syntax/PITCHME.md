@@ -30,7 +30,22 @@ Note:
 * De går att ha i lista
 
 ---
-## slide 4
+## Slide 4
+
+```html
+<h1 class="main-headline">Hello there!</h1>
+```
+
+```css
+.main-headline {
+    font-size: 30px;
+    color: red;
+}
+```
+
+
+---
+## slide 5
 
 @ul
 * grej 1
