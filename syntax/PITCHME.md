@@ -18,8 +18,11 @@ Detta är speaker notes.
     </body>
 </html>
 ```
-
-
+@[1](vilken HTML-version det är. I detta fall 5.)
+@[2,8](innhållet i denna fil ska tolkas som HTML.)
+@[3,4](head)
+@[5,7](body - det synliga innehållet.)
+@[6](en rubrik nivå 1 (h1). )
 
 Note: 
 
