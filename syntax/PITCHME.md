@@ -31,6 +31,7 @@ Note:
 
 ---
 ## Slide 4
+Sammanfattad förklaring om vad detta är
 
 ```html
 <h1 class="main-headline">Hello there!</h1>
