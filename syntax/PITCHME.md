@@ -32,12 +32,10 @@ Note:
 ---
 ## Slide 4
 
-#### HTML
 ```html
 <a href="#" class="btn">Login</a>
 ```
 
-#### CSS
 ```css
 a.btn {
     display: inline-block;
