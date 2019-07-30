@@ -31,10 +31,6 @@ Note:
 
 ---
 ## Slide 4
-@snap[west span-50] 
-Button
-@snapend
-@snap[east span-50]
 
 ```html
 <a href="#" class="btn">Login</a>
@@ -51,7 +47,6 @@ a.btn {
     text-decoration: none;
 }
 ```
-@snapend
 
 ---
 ## slide 5
