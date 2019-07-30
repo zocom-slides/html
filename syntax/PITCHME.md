@@ -31,19 +31,27 @@ Note:
 
 ---
 ## Slide 4
-Sammanfattad förklaring om vad detta är
+@snap[west span-50] 
+Button
+@snapend
+@snap[east span-50]
 
 ```html
-<h1 class="main-headline">Hello there!</h1>
+<a href="#" class="btn">Login</a>
 ```
 
 ```css
-.main-headline {
-    font-size: 30px;
-    color: red;
+a.btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    color: rgba(0,0,0,.8);
+    background: rgba(255,255,255,.8);
+    border-radius: .25rem;
+    text-decoration: none;
 }
 ```
-
+@snapend
 
 ---
 ## slide 5
