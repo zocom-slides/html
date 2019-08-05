@@ -32,9 +32,9 @@ Note:
 ---
 ## Slide 4
 
-----
++++
 
-#### lite HTML
+## lite HTML
 
 ```html
 <a href="#" class="btn">Login</a>
